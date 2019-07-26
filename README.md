@@ -2,11 +2,11 @@ Number and name of feature: Database Setup
 
 Estimate of time needed to complete: __1 hour__
 
-Start time: _____
+Start time: _950AM____
 
-Finish time: _____
+Finish time: _10AM____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _10 mins____
 
 -----
 
@@ -14,11 +14,11 @@ Number and name of feature: Database Migration
 
 Estimate of time needed to complete: __1 hour___
 
-Start time: _____
+Start time: __10AM___
 
-Finish time: _____
+Finish time: __1010AM___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __10 mins___
 
 -----
 
